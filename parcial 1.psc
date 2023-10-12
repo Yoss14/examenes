@@ -1,6 +1,6 @@
 Algoritmo operacion
 	definir numA, numB como real 
-	definir opcionn como real
+	definir opcionn, result como real
 	escribir "ingrese primer numero"
 	leer numA
 	Escribir  "ingrese segundo numero"
